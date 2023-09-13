@@ -16,4 +16,4 @@ Sou programadora trainee em uma empresa que desenvolve soluções de Gestão e C
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giseleneveseng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/giseleneveseng@gmail.com/giseleneveseng@gmail.com/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/giseleneveseng/giseleneveseng.com/blob/output/github-contribution-grid-snake.svg)
