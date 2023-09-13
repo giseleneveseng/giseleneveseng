@@ -13,7 +13,6 @@ Sou programadora trainee em uma empresa que desenvolve soluções de Gestão e C
 
 <div>
   <a href="https://github.com/giseleneveseng">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giseleneveseng&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giseleneveseng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
